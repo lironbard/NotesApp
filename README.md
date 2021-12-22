@@ -10,5 +10,6 @@
 - Just type you name at the input field.
 - Type your note content and click to add your note to the list
 - Your note is now add to the notes list with timestamp.
+- You can delete a note by clicking on the X button.
 
 Have Fun!
